@@ -1,4 +1,4 @@
-<img align="right" width="150px" src="https://user-images.githubusercontent.com/images/1339353900.gif">
+<img align="right" width="150px" src="https://github.com/zhongjiancong/zhongjiancong/blob/main/images/1339353900.gif">
 
 # ZhongJianCong
 
