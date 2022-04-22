@@ -32,6 +32,7 @@ English | [简体中文](README.md)
    cd greet
    go mod init
    go mod tidy
+   go mod min
 ```
 
 #
