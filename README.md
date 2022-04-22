@@ -2,7 +2,7 @@
 
 # ZhongJianCong
 
-English | [简体中文](readme-cn.md)
+English | [简体中文](README.md)
 
 [![Go](https://github.com/zeromicro/go-zero/workflows/Go/badge.svg?branch=master)](https://github.com/zeromicro/go-zero/actions)
 [![codecov](https://codecov.io/gh/zeromicro/go-zero/branch/master/graph/badge.svg)](https://codecov.io/gh/zeromicro/go-zero)
