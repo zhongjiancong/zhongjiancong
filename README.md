@@ -16,6 +16,7 @@ English | [简体中文](README.md)
 
 ## 每天打卡  
  
+- 今天日期-20220507  
 - 今天日期-20220506  
 - 今天日期-20220505  
 - 今天日期-20220504  
@@ -35,18 +36,6 @@ English | [简体中文](README.md)
 - 今天日期-20220420  
 - 今天日期-20220419  
 - 今天日期-20220418  
-
- ```Plain Text
- 文体内容
-```
-
-```shell
-命令语句
-   cd greet
-   go mod init
-   go mod tidy
-   go mod min
-```
 
 #
 Regards,  
