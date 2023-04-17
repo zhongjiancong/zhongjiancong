@@ -4,11 +4,15 @@
 
 English | [简体中文](README.md)
 
-[![Go](https://github.com/zeromicro/go-zero/workflows/Go/badge.svg?branch=master)](https://github.com/zeromicro/go-zero/actions)
-[![codecov](https://codecov.io/gh/zeromicro/go-zero/branch/master/graph/badge.svg)](https://codecov.io/gh/zeromicro/go-zero)
-[![Go Report Card](https://goreportcard.com/badge/github.com/zeromicro/go-zero)](https://goreportcard.com/report/github.com/zeromicro/go-zero)
-[![Release](https://img.shields.io/github/v/release/zeromicro/go-zero.svg?style=flat-square)](https://github.com/zeromicro/go-zero)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=zhongjiancong&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zhongjiancong&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongjiancong&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+![](https://komarev.com/ghpvc/?username=Developing-Gamer&style=flat)
+
+<div align="center">
 
 # <p align="center">每天签到</p>
 
