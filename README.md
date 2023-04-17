@@ -9,10 +9,33 @@ English | [简体中文](README.md)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zhongjiancong&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongjiancong&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-![](https://komarev.com/ghpvc/?username=Developing-Gamer&style=flat)
+<table>
+    <tr>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=zhongjiancong&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhongjiancong&theme=github_dark&show_icons=true" align="right" /></center>
+        </td>
+    </tr>
+</table>
 
-<div align="center">
+<table>
+    <tr>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhongjiancong&theme=vue" ></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zhongjiancong&theme=github&utcOffset=8" align="right" /></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhongjiancong&theme=vue" align="right" /></center>
+        </td>
+    </tr>
+</table>
+
+---
+![](https://komarev.com/ghpvc/?username=zhongjiancong&style=flat)
 
 # <p align="center">每天签到</p>
 
